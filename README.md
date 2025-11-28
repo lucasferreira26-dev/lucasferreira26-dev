@@ -8,14 +8,6 @@
 - 🔍 Procuro vaga de estágio em desenvolvimento fullstack, onde eu posso estar desenvolvendo minhas habilidades back-end e front-end;
 - 📫 Cotate-me no seguinte e-mail: lucasferreira26032003@gmail.com
 
-##
-
-<div>
-  <a href="https://github.com/lucasferreira26-dev"> 
-<img height="42%" src="https://github-readme-stats.vercel.app/api?username=lucasferreira26-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="50%
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira26-dev&layout=compact&langs_count=16&theme=dark"/>
-</div>
 
 ##
 
