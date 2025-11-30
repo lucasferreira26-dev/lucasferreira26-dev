@@ -3,11 +3,11 @@
 </h1>
 <h3>Desenvolvedor Java-End </h3>
 
-- 🔭 Eu trabalho como estoquista atualmente;
+- 💻 Estudante de ADS;
 - 🌱 Estou aprendendo programação em Java e também tenho conhecimentos em HTML, CSS e JS;
 - 🔍 Procuro vaga de estágio em desenvolvimento fullstack, onde eu posso estar desenvolvendo minhas habilidades back-end e front-end;
-- 📫 Cotate-me no seguinte e-mail: lucasferreira26032003@gmail.com
-
+- 📫 Cotate-me no seguinte e-mail: lucasferreira26032003@gmail.com;
+- 📞 (85) 98921-6815.
 
 ##
 
@@ -26,12 +26,7 @@
 ##
 
 <div>
-  <a href="https://www.youtube.com/@Senacceoficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/denis.p.silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/denispsilvace" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/236957863879114754" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:denissilva@ce.senac.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/denissilvace" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/lucas-ferreira-892197242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ##
