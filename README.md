@@ -4,8 +4,8 @@
 <h3>Desenvolvedor Java-End </h3>
 
 - 💻 Estudante de ADS;
-- 🌱 Estou aprendendo programação em Java e também tenho conhecimentos em HTML, CSS e JS;
-- 🔍 Procuro vaga de estágio em desenvolvimento fullstack, onde eu posso estar desenvolvendo minhas habilidades back-end e front-end;
+- 🌱 Estou aprendendo programação em Java;
+- 🔍 Procuro vaga de estágio em desenvolvimento e suporte de sistemas, onde eu posso estar desenvolvendo minhas habilidades de manutenção, refatoração de código, depuração e programação de sistemas;
 - 📫 Cotate-me no seguinte e-mail: lucasferreira26032003@gmail.com;
 - 📞 (85) 98921-6815.
 
@@ -15,9 +15,6 @@
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Pedro-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Pedro-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Pedro-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Pedro-Windows11" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
