@@ -1,31 +1,52 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+👋;+Sou+Pedro+Lucas+Ferreira+de+Sousa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+👋;+Sou+Pedro+Lucas+Ferreira+de+Sousa!;💻+Desenvolvedor+Java+Back+-+End+☕" />
 </h1>
-<h3>Desenvolvedor Java-End </h3>
 
-- 💻 Estudante de ADS;
-- 🌱 Estou aprendendo programação em Java;
-- 🔍 Procuro vaga de estágio em desenvolvimento e suporte de sistemas, onde eu posso estar desenvolvendo minhas habilidades de manutenção, refatoração de código, depuração e programação de sistemas;
-- 📫 Cotate-me no seguinte e-mail: lucasferreira26032003@gmail.com;
-- 📞 (85) 98921-6815.
+## 📚 Carreira
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- ☕ Focado em desenvolvimento Back-End com Java  
+- 🚀 Interesse em APIs, sistemas escaláveis e boas práticas  
+- 🎯 Buscando oportunidade de estágio em desenvolvimento Back-End
 
-##
+## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Pedro-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Pedro-Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="Pedro-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Pedro-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Pedro-Windows11" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
 </div>
 
-##
+## 🔗 Conecte-se comigo
 
-<div>
-<a href="https://www.linkedin.com/in/lucas-ferreira-892197242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Lucas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-892197242)
 
 ##
+
+## 📌 Projeto em Destaque
+
+### 🏦 Sistema Bancário em Java
+
+💡 Simulação de operações bancárias reais via terminal
+
+🔹 CRUD completo de contas  
+🔹 Regras de negócio (saque, depósito e limite)  
+🔹 Tratamento de exceções e validações  
+
+🔗 [Ver projeto no GitHub](https://github.com/lucasferreira26-dev/digital_bank_system.git)
+
+## 🌍 Idiomas
+
+- Inglês: Técnico (leitura e escrita)
+
+## 📬 Contato
+
+📧 Email: lucasferreira26032003@gmail.com  
+📱 WhatsApp: (85) 98921-6815
+
+
+## 📈 Atividade no GitHub
 
 ![Snake animation](https://github.com/lucasferreira26-dev/lucasferreira26-dev/blob/output/github-contribution-grid-snake.svg)
