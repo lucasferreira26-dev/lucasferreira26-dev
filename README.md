@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+👋;+Sou+Pedro+Lucas+Ferreira+de+Sousa!;💻+Desenvolvedor+Java+Back+-+End+☕" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Olá!+👋;+Sou+Lucas+Ferreira!;💻+Desenvolvedor+Back+-+End+Java+☕" />
 </h1>
 
 ## 📚 Carreira
